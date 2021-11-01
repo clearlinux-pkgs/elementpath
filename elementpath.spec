@@ -4,7 +4,7 @@
 #
 Name     : elementpath
 Version  : 2.3.2
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/11/cc/9eb978f246b1fd3fb8cc599734a18108693ffd91ccaf9d4c6312c67b3bf3/elementpath-2.3.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/11/cc/9eb978f246b1fd3fb8cc599734a18108693ffd91ccaf9d4c6312c67b3bf3/elementpath-2.3.2.tar.gz
 Summary  : XPath 1.0/2.0 parsers and selectors for ElementTree and lxml
@@ -76,7 +76,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1634768211
+export SOURCE_DATE_EPOCH=1635726042
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
